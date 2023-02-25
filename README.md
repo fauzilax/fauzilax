@@ -12,7 +12,7 @@
 
 <div align="center"> 
  
- <h3> Connect With Me </h3>
+ <h3> Connect With Me </h3><br>
  
 [![GitHub](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fauzi-sofyan-0b6186210/)
 [![GitHub](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kekovlakan)
