@@ -10,10 +10,14 @@
 <img src="https://komarev.com/ghpvc/?username=fauzilax&&style=flat-square" align="center" />
 
 - Connect With Me : <br>
+<div align="center">  
+ 
 [![GitHub](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fauzi-sofyan-0b6186210/)
 [![GitHub](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kekovlakan)
 [![GitHub](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fauzilax@gmail.com)
 
+</div>
+ 
 <div align="center">
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fauzilax&theme=github)
