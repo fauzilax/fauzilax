@@ -1,6 +1,5 @@
-### Heya 👋, My name is Fauzi, よろしくお願いします
+### Heya 👋, My name is Fauzi, よろしくお願いします [![GitHub](https://img.shields.io/badge/fauzi-sofyan-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fauzilax)
 
-[![GitHub](https://img.shields.io/badge/fauzi-sofyan-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fauzilax)
 [![Github](https://img.shields.io/github/followers/fauzilax?label=Follow&style=social)](https://github.com/fauzilax)
 
 - Connect With Me : <br>
