@@ -1,7 +1,7 @@
 ### Heya 👋, My name is Fauzi, よろしくお願いします
 
-[![Github](https://img.shields.io/github/followers/fauzilax?label=Follow&style=social)](https://github.com/fauzilax)
-
+[![Github](https://img.shields.io/github/followers/fauzilax?label=Follow&style=social)](https://github.com/fauzilax)<br>
+[![GitHub](https://img.shields.io/badge/fauzi-sofyan-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fauzilax)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fauzilax&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fauzilax&theme=github)
