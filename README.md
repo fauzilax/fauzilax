@@ -1,7 +1,10 @@
 ### Heya 👋, My name is Fauzi, よろしくお願いします
 
+- Follow me : <br>
 [![Github](https://img.shields.io/github/followers/fauzilax?label=Follow&style=social)](https://github.com/fauzilax)<br>
-[![GitHub](https://img.shields.io/badge/fauzi-sofyan-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fauzilax)
+[![GitHub](https://img.shields.io/badge/fauzi-sofyan-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fauzilax)<br>
+[![GitHub](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://github.com/fauzilax](https://www.linkedin.com/in/fauzi-sofyan-0b6186210/))<br>
+
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fauzilax&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fauzilax&theme=github)
