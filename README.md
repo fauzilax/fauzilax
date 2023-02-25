@@ -9,7 +9,7 @@
 [![Github](https://img.shields.io/github/followers/fauzilax?label=Follow&style=social)](https://github.com/fauzilax)<br>
 <img src="https://komarev.com/ghpvc/?username=fauzilax&&style=flat-square" align="center" />
 
-- Connect With Me : <br>
+<h1> Connect With Me </h1><br>
 <div align="center">  
  
 [![GitHub](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fauzi-sofyan-0b6186210/)
