@@ -45,7 +45,7 @@
 ![GitHub](https://img.shields.io/badge/github%20Project-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
 
-
+<div align="center"> 
 
 ```
 	   _________    __________   _________    __    __      ________    ____    __   ________
@@ -57,6 +57,9 @@
      /__________/ /_/     /_/  /_________/  /_/       \_\ /________/  /_/    |_|/  /_________/
 
 ```
+	
+</div>	
+	
 <!--
 
 Here are some ideas to get you started:
