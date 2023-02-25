@@ -1,5 +1,5 @@
 
-### Heya 👋, My name is Fauzi, よろしくお願いします 
+<p align="center"> ### Heya 👋, My name is Fauzi, よろしくお願いします </p>
   
 [![Github](https://img.shields.io/github/followers/fauzilax?label=Follow&style=social)](https://github.com/fauzilax)<br>
 <img src="https://komarev.com/ghpvc/?username=fauzilax&&style=flat-square" align="center" />
