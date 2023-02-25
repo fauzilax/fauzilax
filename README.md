@@ -1,7 +1,10 @@
+
 ### Heya 👋, My name is Fauzi, よろしくお願いします 
 
+<div style=text-align:center;>
 [![Github](https://img.shields.io/github/followers/fauzilax?label=Follow&style=social)](https://github.com/fauzilax)<br>
 <img src="https://komarev.com/ghpvc/?username=fauzilax&&style=flat-square" align="center" />
+</div>
 
 - Connect With Me : <br>
 [![GitHub](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fauzi-sofyan-0b6186210/)
