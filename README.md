@@ -1,19 +1,15 @@
 
 ### Heya 👋, My name is Fauzi, よろしくお願いします 
-
-<div align="center">
   
 [![Github](https://img.shields.io/github/followers/fauzilax?label=Follow&style=social)](https://github.com/fauzilax)<br>
 <img src="https://komarev.com/ghpvc/?username=fauzilax&&style=flat-square" align="center" />
-  
-</div>
 
 - Connect With Me : <br>
 [![GitHub](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fauzi-sofyan-0b6186210/)
 [![GitHub](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kekovlakan)
 [![GitHub](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fauzilax@gmail.com)
 
-
+<div align="center">
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fauzilax&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fauzilax&theme=github)
@@ -21,6 +17,8 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fauzilax&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fauzilax&theme=github)
 
+ </div>
+  
 - All App and Tech for my Project 
 **Backend:** <br>
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
