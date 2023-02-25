@@ -1,4 +1,4 @@
-### Heya 👋, My name is Fauzi, よろしくお願いします [![GitHub](https://img.shields.io/badge/fauzi-sofyan-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fauzilax)
+### Heya 👋, My name is Fauzi, よろしくお願いします 
 
 [![Github](https://img.shields.io/github/followers/fauzilax?label=Follow&style=social)](https://github.com/fauzilax)
 
@@ -31,6 +31,8 @@
 ![GitHub](https://img.shields.io/badge/github%20Project-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
 
+
+[![GitHub](https://img.shields.io/badge/fauzi-sofyan-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fauzilax)
 <!--
 
 Here are some ideas to get you started:
