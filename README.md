@@ -1,6 +1,7 @@
-
 <div align="center">   
+ 
  ### Heya 👋, My name is Fauzi, よろしくお願いします 
+ 
 </div>
   
 [![Github](https://img.shields.io/github/followers/fauzilax?label=Follow&style=social)](https://github.com/fauzilax)<br>
