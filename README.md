@@ -9,7 +9,6 @@
 [![Github](https://img.shields.io/github/followers/fauzilax?label=Follow&style=social)](https://github.com/fauzilax)<br>
 <img src="https://komarev.com/ghpvc/?username=fauzilax&&style=flat-square" align="center" />
 
-
 <div align="center"> 
  
  <h3> Connect With Me </h3>
