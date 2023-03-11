@@ -11,6 +11,9 @@
 [![Github](https://img.shields.io/github/followers/fauzilax?label=Follow&style=social)](https://github.com/fauzilax)<br>
 <img src="https://komarev.com/ghpvc/?username=fauzilax&&style=flat-square" align="center" />
 
+Hi, let me introduce myself. I am a graduate of a bachelor's degree program from the Indonesian Computer University. My experience includes using several back-end programming languages such as Go and PHP, and front-end programming languages such as JavaScript. I am also a graduate of Alterra Academy, where I have extensively
+used tech applications such as AWS, Linux, Docker, GitHub, and more. Additionally, I have experience working with various third-party APIs, such as Midtrans for payment methods in my simple e-commerce projects, Open Street Map for determining location in online attendance project TIMESYNC, and AWS S3 or Cloudinary for file upload deployment. I am using SwaggerHub in creating restful APIs and for database I am using MySQL. I am very enthusiastic starting a career as a backend developer and contributing to developing innovative software application.
+
 <div align="center"> 
  
  <h3> Connect With Me </h3>
