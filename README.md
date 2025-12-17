@@ -3,7 +3,7 @@
  [![GitHub](https://img.shields.io/badge/fauzi-sofyan-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fauzilax)
  
 <h2>
-Heya 👋, My name is Fauzi, よろしくお願いします 
+Heya 👋, You can visit me in my social media or web for more info thankyou
  </h2>
 	
 </div>
